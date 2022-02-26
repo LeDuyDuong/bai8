@@ -7,6 +7,5 @@ int counter=1;
     printf("%d\n", counter);
     ++counter;
   }while(counter<=10);
-  printf("%c", "Hello");
 }
 
